@@ -68,7 +68,8 @@ button {
     .todo-list {
         font-size: 15px;
         max-width: 100%;
-        padding: 25px 10px;
+        height: auto;
+        padding: 25px 20px;
     }
     input {
         width: 60%;
